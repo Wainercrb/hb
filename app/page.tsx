@@ -420,7 +420,7 @@ export default function App() {
               <h2 className="text-4xl font-black text-rose-600 tracking-tighter uppercase italic leading-[0.8] mb-4">¡FELICIDADES MI VIDA! ❤️</h2>
               <div className="bg-rose-50/80 p-6 rounded-[2.5rem] border-4 border-white italic text-base leading-snug text-slate-700 shadow-xl text-left relative overflow-hidden">
                 <p className="font-bold relative z-10">
-                  "¡Feliz cumple, mi vida! Espero que la pases muy bien hoy y siempre. Agradezco demasiado todas las experiencias vividas a tu lado, bebe, y me emociona mucho todo lo que nos falta por compartir. Gracias por ser parte de mi camino. ¡Te amo montones!"
+                  "¡Feliz cumple, mi vida! Espero que la pases muy bien hoy y siempre. Agradezco demasiado todas las experiencias vividas a tu lado, bebe, y me emociona mucho todo lo que nos falta por compartir. Gracias por ser parte de mi camino. ¡Besitosss 😊!"
                 </p>
                 <Sparkles className="absolute bottom-2 right-2 text-rose-300/30 w-20 h-20" />
               </div>
